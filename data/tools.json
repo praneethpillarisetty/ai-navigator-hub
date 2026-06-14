@@ -1,1 +1,289 @@
-
+[
+  {
+    "name": "ChatGPT",
+    "cat": "AI Chatbots",
+    "price": "Free + Paid",
+    "best": "General writing, study help, coding, brainstorming",
+    "url": "https://chat.openai.com",
+    "tags": [
+      "students",
+      "workers",
+      "developers",
+      "writing"
+    ]
+  },
+  {
+    "name": "Claude",
+    "cat": "AI Chatbots",
+    "price": "Free + Paid",
+    "best": "Long documents, careful writing, research summaries",
+    "url": "https://claude.ai",
+    "tags": [
+      "students",
+      "workers",
+      "research"
+    ]
+  },
+  {
+    "name": "Google Gemini",
+    "cat": "AI Chatbots",
+    "price": "Free + Paid",
+    "best": "Google ecosystem, multimodal help, productivity",
+    "url": "https://gemini.google.com",
+    "tags": [
+      "students",
+      "workers"
+    ]
+  },
+  {
+    "name": "Microsoft Copilot",
+    "cat": "AI Chatbots",
+    "price": "Free + Paid",
+    "best": "Office, Windows, business productivity",
+    "url": "https://copilot.microsoft.com",
+    "tags": [
+      "workers",
+      "business"
+    ]
+  },
+  {
+    "name": "Perplexity",
+    "cat": "Research Assistants",
+    "price": "Free + Paid",
+    "best": "Answer engine with cited web research",
+    "url": "https://www.perplexity.ai",
+    "tags": [
+      "students",
+      "research",
+      "workers"
+    ]
+  },
+  {
+    "name": "NotebookLM",
+    "cat": "Research Assistants",
+    "price": "Free",
+    "best": "Study notes, source-grounded summaries, document Q&A",
+    "url": "https://notebooklm.google.com",
+    "tags": [
+      "students",
+      "research"
+    ]
+  },
+  {
+    "name": "Grammarly",
+    "cat": "Writing Tools",
+    "price": "Free + Paid",
+    "best": "Grammar, tone, professional writing",
+    "url": "https://www.grammarly.com",
+    "tags": [
+      "students",
+      "workers",
+      "writing"
+    ]
+  },
+  {
+    "name": "QuillBot",
+    "cat": "Writing Tools",
+    "price": "Free + Paid",
+    "best": "Paraphrasing, rewriting, citation help",
+    "url": "https://quillbot.com",
+    "tags": [
+      "students",
+      "writing"
+    ]
+  },
+  {
+    "name": "Canva AI",
+    "cat": "Design Tools",
+    "price": "Free + Paid",
+    "best": "Presentations, social posts, quick design assets",
+    "url": "https://www.canva.com",
+    "tags": [
+      "students",
+      "creators",
+      "design"
+    ]
+  },
+  {
+    "name": "Adobe Firefly",
+    "cat": "Image Generators",
+    "price": "Free + Paid",
+    "best": "Commercial-friendly image generation and design workflows",
+    "url": "https://firefly.adobe.com",
+    "tags": [
+      "creators",
+      "design"
+    ]
+  },
+  {
+    "name": "Midjourney",
+    "cat": "Image Generators",
+    "price": "Paid",
+    "best": "High-quality creative image generation",
+    "url": "https://www.midjourney.com",
+    "tags": [
+      "creators",
+      "design"
+    ]
+  },
+  {
+    "name": "Ideogram",
+    "cat": "Image Generators",
+    "price": "Free + Paid",
+    "best": "Images with text, posters, logos, social graphics",
+    "url": "https://ideogram.ai",
+    "tags": [
+      "creators",
+      "design"
+    ]
+  },
+  {
+    "name": "Runway",
+    "cat": "Video Generators",
+    "price": "Free + Paid",
+    "best": "AI video generation, editing, creative production",
+    "url": "https://runwayml.com",
+    "tags": [
+      "creators",
+      "video"
+    ]
+  },
+  {
+    "name": "Pika",
+    "cat": "Video Generators",
+    "price": "Free + Paid",
+    "best": "Short AI videos, social clips, motion experiments",
+    "url": "https://pika.art",
+    "tags": [
+      "creators",
+      "video"
+    ]
+  },
+  {
+    "name": "GitHub Copilot",
+    "cat": "Coding Assistants",
+    "price": "Paid",
+    "best": "Code completion, refactoring, IDE coding help",
+    "url": "https://github.com/features/copilot",
+    "tags": [
+      "developers",
+      "coding"
+    ]
+  },
+  {
+    "name": "Cursor",
+    "cat": "Coding Assistants",
+    "price": "Free + Paid",
+    "best": "AI-first code editor for building apps faster",
+    "url": "https://www.cursor.com",
+    "tags": [
+      "developers",
+      "coding"
+    ]
+  },
+  {
+    "name": "Replit AI",
+    "cat": "Coding Assistants",
+    "price": "Free + Paid",
+    "best": "Browser coding, prototypes, beginner projects",
+    "url": "https://replit.com",
+    "tags": [
+      "students",
+      "developers",
+      "coding"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "cat": "Presentation Makers",
+    "price": "Free + Paid",
+    "best": "AI presentations, docs, and landing pages",
+    "url": "https://gamma.app",
+    "tags": [
+      "students",
+      "workers",
+      "presentations"
+    ]
+  },
+  {
+    "name": "Beautiful.ai",
+    "cat": "Presentation Makers",
+    "price": "Paid",
+    "best": "Business presentations with clean templates",
+    "url": "https://www.beautiful.ai",
+    "tags": [
+      "workers",
+      "business",
+      "presentations"
+    ]
+  },
+  {
+    "name": "Otter.ai",
+    "cat": "Meeting Assistants",
+    "price": "Free + Paid",
+    "best": "Meeting transcription and summaries",
+    "url": "https://otter.ai",
+    "tags": [
+      "workers",
+      "meetings"
+    ]
+  },
+  {
+    "name": "Fathom",
+    "cat": "Meeting Assistants",
+    "price": "Free + Paid",
+    "best": "Meeting notes and call summaries",
+    "url": "https://fathom.video",
+    "tags": [
+      "workers",
+      "meetings"
+    ]
+  },
+  {
+    "name": "Zapier AI",
+    "cat": "Automation",
+    "price": "Free + Paid",
+    "best": "Automating business workflows without code",
+    "url": "https://zapier.com",
+    "tags": [
+      "workers",
+      "business",
+      "automation"
+    ]
+  },
+  {
+    "name": "Make",
+    "cat": "Automation",
+    "price": "Free + Paid",
+    "best": "Visual automations and integrations",
+    "url": "https://www.make.com",
+    "tags": [
+      "workers",
+      "automation"
+    ]
+  },
+  {
+    "name": "Teal",
+    "cat": "Career Tools",
+    "price": "Free + Paid",
+    "best": "Job tracking, resume targeting, career workflow",
+    "url": "https://www.tealhq.com",
+    "tags": [
+      "students",
+      "workers",
+      "career"
+    ]
+  },
+  {
+    "name": "Kickresume",
+    "cat": "Career Tools",
+    "price": "Free + Paid",
+    "best": "Resume and cover letter generation",
+    "url": "https://www.kickresume.com",
+    "tags": [
+      "students",
+      "workers",
+      "career"
+    ]
+  }
+]
